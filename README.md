@@ -1,6 +1,6 @@
 # Dragon Trading Cards
 
-![Seashocker Trading Card Website](https://chethanuc007.github.io/Animal-Trading-Cards/) is built using HTML and CSS.
+[Seashocker Trading Card Website](https://chethanuc007.github.io/Animal-Trading-Cards/) is built using HTML and CSS.
 
 ## Project Info
 
