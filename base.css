@@ -1,0 +1,109 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    text-align: center;
+    list-style: none;
+    position: relative;
+}
+
+body {
+    /* Set the Background of the Body with Url and Cover for Size*/
+    background: url(https://cf-char.zi.org.tw/wp-content/uploads/2017/08/1503014351-2931ad880f47ec245526be948d2b33f4.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1 {
+    /* Header Font size, Color and Margin*/
+    font-size: 1.5em;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.container {
+    /* Container Margin, Border and Background color*/
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 10px 30px green;
+    background-color: white;
+    position: center;
+}
+
+header {
+    /* Header could have been absolute. but,*/
+    position: relative;
+}
+
+.bg {
+    border-radius: 10px 10px 0 0;
+    overflow: hidden;
+    position: center;
+}
+
+#bg {
+    width: 300px;
+    height: 220px;
+}
+
+.fg {
+    position: absolute;
+    top: -30px;
+    width: 300px;
+    text-align: center;
+
+    z-index: 1000;
+}
+
+.clearboth{
+    clear: both;
+}
+
+#fg {
+    margin: 15px;
+    width: 175px;
+    position: static;
+    border: 1px solid darkblue;
+    box-shadow: 0 10px 30px lightblue;
+}
+
+main {
+    padding: 20px 10px;
+    color: #888;
+}
+
+.intro {
+    text-align: justify;
+}
+
+footer {
+    padding: 10px 0;
+    background-color: #75befc;
+    border-radius: 0 0 10px 10px;
+    overflow: hidden;
+    color: white;
+}
+
+ul {
+    /*display: block;*/
+    padding: 0;
+}
+
+ul li {
+    /*display: inline-block;*/
+    width: 32%;
+    float: left;
+    border-right: 2px solid #5bb3fc;
+}
+
+ul li.last {
+    border-right: none;
+}
+
+ul li h2 {
+    font-size: 2em;
+}
+
+ul li h4 {
+    font-weight: normal;
+}
