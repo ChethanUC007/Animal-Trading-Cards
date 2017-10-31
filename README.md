@@ -1,6 +1,6 @@
 # Dragon Trading Cards
 
-HTML CSS
+![Seashocker Trading Card Website](https://chethanuc007.github.io/Animal-Trading-Cards/) is built using HTML and CSS.
 
 ## Project Info
 
@@ -44,12 +44,14 @@ HTML CSS
 * CSS Classes
     * The HTML includes classes that are used for styling.
     * Classes are given meaningful names.
-* Redability
-    * New lines and indentation are used for easy readability.
+
 * Separation of Concerns
     * HTML from CSS by linking to stylesheet.
     * HTML code does not include < style > elements or style attributes in the body.
 
+* Redability
+    * New lines and indentation are used for easy readability.
+
 ## Output
 
-
+![Dragon Trading Card Webpage Sc](https://i.imgur.com/k3uGszc.png)
