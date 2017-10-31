@@ -1,4 +1,4 @@
-# Dragon Trading Cards
+# [Dragon Trading Cards](https://chethanuc007.github.io/Animal-Trading-Cards/)
 
 [Seashocker Trading Card Website](https://chethanuc007.github.io/Animal-Trading-Cards/) is built using HTML and CSS.
 
@@ -6,7 +6,7 @@
 
 * Created ​a ​trading ​card ​for Seashocker, a dragon. Used HTML ​to ​create ​the ​structure ​for ​your ​trading ​card and styled with ​CSS.
 
-* This project combines the skills you mastered in the problem set and asks you to re-create a webpage from a design prototype.
+* This [project](https://chethanuc007.github.io/Animal-Trading-Cards/) combines the skills you mastered in the problem set and asks you to re-create a webpage from a design prototype.
 
 * This is a common workflow for front-end web developers.
 
